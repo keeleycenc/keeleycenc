@@ -9,7 +9,9 @@ width="800"  height="3">
 
 </div>
 
-<img align='right' src="https://keeleycenc.com/piwigo/_data/i/upload/2023/08/20/20230820230952-ef5a22a5-me.jpg?raw=true" width="450" height="450" />
+<div>
+<img align='right' src="https://keeleycenc.com/piwigo/_data/i/upload/2023/08/20/20230820230952-ef5a22a5-me.jpg" width="350" height="350" />
+</div>
 
 *世界上最真情的相依，是你在try我在catch。无论你发什么脾气，我都默默承受，静静处理，到那时，再来期待我们的finally*
 
