@@ -47,6 +47,7 @@ width="800"  height="3">
 
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+| [opencv-image-merger](https://github.com/keeleycenc/opencv-image-merger) | ![](https://img.shields.io/github/stars/keeleycenc/opencv-image-merger?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/keeleycenc/opencv-image-merger?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 图像处理和合并项目 |
 | [menstruation](https://github.com/keeleycenc/menstruation) | ![](https://img.shields.io/github/stars/keeleycenc/menstruation?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/keeleycenc/menstruation?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 女友月经记录 |
 | [Visitation](https://github.com/keeleycenc/Visitation) | ![](https://img.shields.io/github/stars/keeleycenc/Visitation?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/keeleycenc/Visitation?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 用户访问追踪和统计器  |
 
@@ -59,13 +60,19 @@ width="800"  height="3">
 <details open>
 
 <!-- BLOG-POST-LIST:START -->
-- ❤️ [世界上最真情的相依](https://keeleycenc.com/Brave-main/Typecho/index.php/archives/27/) 
+- ❤️ [Python自动化数据写入MySQL](https://keeleycenc.com/weiui/index.php/archives/14/) 
 
-- ❤️ [今年最幸运的事](https://keeleycenc.com/Brave-main/Typecho/index.php/archives/22/) 
+- ❤️ [工业通讯标准：Modbus协议的C语言实现详解](https://keeleycenc.com/weiui/index.php/archives/10/)
+  
+- ❤️ [OpenCV的学习笔记](https://keeleycenc.com/weiui/index.php/archives/12/) 
+
+- ❤️ [OpenAI API接入博客/网站](https://keeleycenc.com/weiui/index.php/archives/9/) 
 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://keeleycenc.com](https://keeleycenc.com)
+
+</details>
 
 ----------
 
